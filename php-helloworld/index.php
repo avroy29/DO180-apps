@@ -1,3 +1,3 @@
 <?php
-print "Lets Install " . PHP_VERSION . "\n";
+print "Lets Not Install " . PHP_VERSION . "\n";
 ?>
